@@ -2,7 +2,7 @@ const Choisir = () => {
 
     return(
         <>
-        <h1 className="jumbotron text-center bg-primary">Choisir un Desktop</h1>
+        <h1 className="jumbotron text-center bg-primary">Concevez Votre Bureau </h1>
         </>
     )
 };
